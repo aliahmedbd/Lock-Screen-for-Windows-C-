@@ -1,0 +1,18 @@
+c:\users\ali ahmed\documents\visual studio 2013\Projects\lock\lock\bin\Debug\@lock.exe.config
+c:\users\ali ahmed\documents\visual studio 2013\Projects\lock\lock\bin\Debug\@lock.exe
+c:\users\ali ahmed\documents\visual studio 2013\Projects\lock\lock\bin\Debug\@lock.pdb
+c:\users\ali ahmed\documents\visual studio 2013\Projects\lock\lock\obj\Debug\lock.csprojResolveAssemblyReference.cache
+c:\users\ali ahmed\documents\visual studio 2013\Projects\lock\lock\obj\Debug\lock.Form1.resources
+c:\users\ali ahmed\documents\visual studio 2013\Projects\lock\lock\obj\Debug\lock.Properties.Resources.resources
+c:\users\ali ahmed\documents\visual studio 2013\Projects\lock\lock\obj\Debug\lock.csproj.GenerateResource.Cache
+c:\users\ali ahmed\documents\visual studio 2013\Projects\lock\lock\obj\Debug\@lock.exe
+c:\users\ali ahmed\documents\visual studio 2013\Projects\lock\lock\obj\Debug\@lock.pdb
+H:\Visual Studio Project\lock\lock\bin\Debug\@lock.exe.config
+H:\Visual Studio Project\lock\lock\obj\Debug\@lock.exe
+H:\Visual Studio Project\lock\lock\obj\Debug\@lock.pdb
+H:\Visual Studio Project\lock\lock\bin\Debug\@lock.exe
+H:\Visual Studio Project\lock\lock\bin\Debug\@lock.pdb
+H:\Visual Studio Project\lock\lock\obj\Debug\lock.csprojResolveAssemblyReference.cache
+H:\Visual Studio Project\lock\lock\obj\Debug\lock.Form1.resources
+H:\Visual Studio Project\lock\lock\obj\Debug\lock.Properties.Resources.resources
+H:\Visual Studio Project\lock\lock\obj\Debug\lock.csproj.GenerateResource.Cache
